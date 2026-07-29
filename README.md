@@ -12,5 +12,5 @@ The labs cover core administrative tasks such as domain controller deployment, u
 ### Tools Used
 
 - VMWARE
-- Windows Server 20254
+- Windows Server 2025
 - Power Shell
